@@ -1,18 +1,18 @@
 Se ingresa un archivo de texto nuevo en visual studio, y se guarda con ctrl s, recordando que se debe llamar index.html
 Dentro del archivo escrbir html5 para que nos de el formato inial
 Pasamos al cuerpo
-Se coloca el titulo 1 <h1>
+Se coloca el titulo 1 H1
  Se coloca la etiqueta Table para ingresar una tabla
 ![image](https://user-images.githubusercontent.com/113804528/202874080-356d8ce6-49b7-4a14-82fd-90efcfe97f77.png)
 
   
 Filas se ingresan con etiqueta tr, cada tr es una fila
-Se coloca <th> para cada elemento del titulo, encabezado de tabla
+Se coloca TH para cada elemento del titulo, encabezado de tabla
   
-  Para colocar una segunda fila, se pone un TR nuevo
-  y para escribir contenido en esa fila se coloca TD
+Para colocar una segunda fila, se pone un TR nuevo
+y para escribir contenido en esa fila se coloca TD
   
-  Cada que se quiera agregar una fila se ingresa un TR nuevo y se ingresan Datos con TD
+Cada que se quiera agregar una fila se ingresa un TR nuevo y se ingresan Datos con TD
   
   ![image](https://user-images.githubusercontent.com/113804528/202874046-5c15c2be-7137-471c-bd31-315a0aa26745.png)
 
