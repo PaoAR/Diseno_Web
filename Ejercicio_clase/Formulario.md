@@ -37,6 +37,40 @@ El tipo Radio es para la viñeta elegible y si a estas opciones les colocas el m
  
  
 
+cols="30" rows="10" Columnas y Filas
 
 
+TEXTAREA crea un cuadro de texto libre <br>
+
+![image](https://user-images.githubusercontent.com/113804528/202876864-bd47c3d9-b90c-4ab8-b5ad-897951a68255.png) <br>
+![image](https://user-images.githubusercontent.com/113804528/202876870-3999bbdd-bd40-48c0-9c99-19d048c0c08d.png) <br>
+<br>
+SELECT crea una lista desplegable <br>
+![image](https://user-images.githubusercontent.com/113804528/202876882-bb5cfecf-b21f-476b-b7c9-4afdfeae38c8.png) <br>
+![image](https://user-images.githubusercontent.com/113804528/202876886-188c28eb-c2a9-4783-98fc-cc98cdf94c97.png) <br>
+
+Otro tipo de texto es Num para utilizar Input <br>
+![image](https://user-images.githubusercontent.com/113804528/202876944-569023e0-6727-4516-89ba-fa3e77b386d1.png) <br>
+![image](https://user-images.githubusercontent.com/113804528/202876952-89cd14b8-af17-4a3a-a656-80b7f6209b31.png) <br>
+
+Check box  caja de opciones con selección multiple <br>
+![image](https://user-images.githubusercontent.com/113804528/202877264-c25ab7d6-1088-48c0-8ad2-cdf274ec1b67.png) <br>
+![image](https://user-images.githubusercontent.com/113804528/202877271-d5b41266-481d-4295-bf10-9bbd07800dc9.png)
+
+
+Otro tipo  de texto es Submit, es para generar boton de envio
+![image](https://user-images.githubusercontent.com/113804528/202877373-fc4452da-a82e-4435-af06-a9401c545d35.png) <br>
+  
+  Otro tipo  de texto es reset, es para generar boton de borrado de datos
+![image](https://user-images.githubusercontent.com/113804528/202877446-11a96173-f161-406c-afd5-2f048bc9d183.png) <br>
+
+
+![image](https://user-images.githubusercontent.com/113804528/202877521-6b24f9ed-48a2-4645-a5c8-769dc221055b.png)
+
+Otros tipos de textos
+
+![image](https://user-images.githubusercontent.com/113804528/202877764-47bb0818-a6a3-4a83-9101-4e1d250e8e52.png)
+
+<br>
+![image](https://user-images.githubusercontent.com/113804528/202877771-5d0f10f2-a5c9-40b8-a976-f953f3d65869.png)
 
